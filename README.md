@@ -11,16 +11,24 @@ A simple yet flexible **console-based** Tic Tac Toe game written in Java. The ga
 ---
 
 ## **Example**
-```java
+```
 Enter the board size: 3
 Enter the number of symbols in a row required to win: 3
 [X] Enter row: 1
 [X] Enter column: 1
 [O] Enter row: 2
 [O] Enter column: 1
-...
-```
 
+   1   2   3  
+ -------------
+1| X | X | X |
+ -------------
+2| O |   | O |
+ -------------
+3|   | O |   |
+ -------------
+Player 1 (X) won!
+```
 
 
 ---
